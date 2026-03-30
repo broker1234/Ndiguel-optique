@@ -1,0 +1,48 @@
+{
+  "entities": {
+    "Product": {
+      "title": "Product",
+      "description": "A product sold on the website.",
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "The name of the product."
+        },
+        "description": {
+          "type": "string",
+          "description": "A detailed description of the product."
+        },
+        "price": {
+          "type": "string",
+          "description": "The price of the product."
+        },
+        "image": {
+          "type": "string",
+          "description": "The URL of the product image."
+        },
+        "category": {
+          "type": "string",
+          "enum": ["accessoires", "optique"],
+          "description": "The main category of the product."
+        },
+        "subCategory": {
+          "type": "string",
+          "description": "The sub-category of the product."
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "The time the product was added."
+        }
+      },
+      "required": ["name", "description", "image", "category", "subCategory"]
+    }
+  },
+  "firestore": {
+    "/products/{productId}": {
+      "schema": "Product",
+      "description": "Collection of products."
+    }
+  }
+}
