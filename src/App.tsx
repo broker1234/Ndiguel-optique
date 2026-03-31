@@ -105,7 +105,7 @@ const PRODUCTS: Product[] = [
   },
   {
     id: '4',
-    name: 'Lunettes de Vue Ndiguel',
+    name: 'Lunettes de Vue NDIGUEL OPTIQUE',
     category: 'optique',
     subCategory: 'Correcteurs',
     image: 'https://images.unsplash.com/photo-1574258495973-f010dfbb5371?q=80&w=800',
@@ -131,10 +131,11 @@ const PRODUCTS: Product[] = [
   },
   {
     id: '17',
-    name: 'JBL Flip 6',
+    name: 'Ring Light Professionnelle',
     category: 'accessoires',
-    subCategory: 'Audio',
-    description: 'Le son audacieux JBL Pro avec un système de haut-parleurs à 2 voies.',
+    subCategory: 'Studio',
+    image: 'https://djd1xqjx2kdnv.cloudfront.net/photos/33/57/457213_24600_XXL.jpg',
+    description: 'Éclairage LED circulaire pour des vidéos et photos de qualité studio.',
   },
   {
     id: '18',
@@ -146,10 +147,11 @@ const PRODUCTS: Product[] = [
   },
   {
     id: '19',
-    name: 'JBL Go 3',
+    name: 'Souris Sans Fil Optique',
     category: 'accessoires',
-    subCategory: 'Audio',
-    description: 'Style audacieux et son JBL Pro ultra-portable.',
+    subCategory: 'Informatique',
+    image: 'https://sn.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/87/478221/1.jpg?5555',
+    description: 'Souris ergonomique sans fil pour une navigation fluide et précise.',
   },
   {
     id: '20',
@@ -388,7 +390,7 @@ const PRODUCTS: Product[] = [
     name: 'Lunigal Simple HOFF',
     category: 'optique',
     subCategory: 'Simples',
-    image: 'https://www.lunigal.fr/images/lunettes/lunettes-de-soleil-simple-57487z.jpg',
+    image: 'https://letuialunettes.com/wp-content/uploads/2022/06/selection-lunettes-optiques.jpg',
     description: 'Le style HOFF revisité avec simplicité.',
   },
   {
@@ -471,6 +473,182 @@ const PRODUCTS: Product[] = [
     image: 'https://kokoon-protect.fr/wp-content/uploads/2018/09/3512-thickbox_default-Lunette-anti-lumiere-bleue-homme.jpg',
     description: 'Protection contre la lumière bleue et les reflets pour écrans.',
   },
+  {
+    id: '50',
+    name: 'Casque Bluetooth P9',
+    category: 'accessoires',
+    subCategory: 'Audio',
+    image: 'https://www.soumari.com/wp-content/uploads/2024/09/Casque-Bluetooth-P9-.webp',
+    description: 'Casque Bluetooth P9 avec son haute fidélité et design confortable.',
+  },
+  {
+    id: '51',
+    name: 'Souris Sans Fil Slim',
+    category: 'accessoires',
+    subCategory: 'Informatique',
+    image: 'https://merci.ci/wp-content/uploads/2025/11/61djDHY5BnL._AC_SL1500_.jpg',
+    description: 'Souris optique rechargeable 2.4G ultra-fine.',
+  },
+  {
+    id: '52',
+    name: 'Souris Sans Fil HP',
+    category: 'accessoires',
+    subCategory: 'Informatique',
+    image: 'https://www.ramatek.ci/wyngoaks/2023/02/Souris-sans-fil-HP.jpg',
+    description: 'Souris sans fil HP pour une productivité accrue.',
+  },
+  {
+    id: '53',
+    name: 'Souris Filaire HP',
+    category: 'accessoires',
+    subCategory: 'Informatique',
+    image: 'https://www.hp.com/fr-fr/shop/Html/Merch/Images/c06128715_1750x1285.jpg?imwidth=869',
+    description: 'Souris filaire HP fiable et confortable.',
+  },
+  {
+    id: '54',
+    name: 'Souris Optique Filaire',
+    category: 'accessoires',
+    subCategory: 'Informatique',
+    image: 'https://media.s-bol.com/91VNYBnoqpmP/550x316.jpg',
+    description: 'Souris optique avec câble pour PC et Mac.',
+  },
+  {
+    id: '55',
+    name: 'Souris HP 1000 Filaire',
+    category: 'accessoires',
+    subCategory: 'Informatique',
+    image: 'https://diaytar.com/wp-content/uploads/imdt2/souris-avec-ca-ble-et-capteur-optique-hp-1000_7325.webp',
+    description: 'Souris avec câble et capteur optique HP 1000.',
+  },
+  {
+    id: '56',
+    name: 'Anti-Casse iPhone 12 Mini',
+    category: 'accessoires',
+    subCategory: 'Protection',
+    image: 'http://iphone-kin.com/wp-content/uploads/2023/06/2-10.png',
+    description: 'Protection d\'écran haute résistance pour iPhone 12 Mini.',
+  },
+  {
+    id: '57',
+    name: 'Super Verre Protecteur',
+    category: 'accessoires',
+    subCategory: 'Protection',
+    image: 'https://p.globalsources.com/IMAGES/PDT/B1196499581/Super-verre-protecteur-d-ecran.png?ver=5648737996',
+    description: 'Verre trempé premium pour une protection maximale de l\'écran.',
+  },
+  {
+    id: '58',
+    name: 'Film Anti-Casse Glass S9',
+    category: 'accessoires',
+    subCategory: 'Protection',
+    image: 'https://letuialunettes.com/wp-content/uploads/2022/06/selection-lunettes-optiques.jpg',
+    description: 'Film de protection en verre pour Samsung S9.',
+  },
+  {
+    id: '59',
+    name: 'Privacy Glass Fumé iPhone 16',
+    category: 'accessoires',
+    subCategory: 'Protection',
+    image: 'https://www.wamia.tn/media/catalog/product/cache/77e000fbeece55e92f64fab77b1b3be8/1/_/1_16__3_5.jpg',
+    description: 'Verre trempé anti-espion et anti-casse pour iPhone 16.',
+  },
+  {
+    id: '60',
+    name: 'Anti-Casse Fumé iPhone SE',
+    category: 'accessoires',
+    subCategory: 'Protection',
+    image: 'https://zhooma.com/media/cache/0f/d1/0fd1dd566de51f93c31c3fd9fa42fb73.jpg',
+    description: 'Protection d\'écran fumée et résistante pour iPhone SE.',
+  },
+  {
+    id: '61',
+    name: 'Coque iPhone 17 Pro Max Transparente MagSafe',
+    category: 'accessoires',
+    subCategory: 'Protection',
+    image: 'https://casewear.fr/1154057-large_default/coque-iphone-17-pro-max-transparente-magsafe-viva.jpg',
+    description: 'Coque transparente avec technologie MagSafe pour iPhone 17 Pro Max.',
+  },
+  {
+    id: '62',
+    name: 'Coque iPhone 17 Pro Silicone',
+    category: 'accessoires',
+    subCategory: 'Protection',
+    image: 'https://consomac.fr/images/news/coque-iphone-17-pro-1.jpg',
+    description: 'Coque en silicone souple pour une protection élégante de votre iPhone 17 Pro.',
+  },
+  {
+    id: '63',
+    name: 'Coque MagSafe Silicone iPhone 17 Pro Max',
+    category: 'accessoires',
+    subCategory: 'Protection',
+    image: 'http://www.elago.com/cdn/shop/files/S17MSSC69PRO-MT_ef2df700-6795-424a-80f6-a6bdc452b822.jpg?v=1757396745',
+    description: 'Coque elago en silicone avec MagSafe pour iPhone 17 Pro Max.',
+  },
+  {
+    id: '64',
+    name: 'Coque de Protection iPhone 17 Pro Max',
+    category: 'accessoires',
+    subCategory: 'Protection',
+    image: 'https://i.ebayimg.com/images/g/MAwAAeSwobZov47w/s-l1200.jpg',
+    description: 'Coque de protection robuste pour iPhone 17 Pro Max.',
+  },
+  {
+    id: '65',
+    name: 'Manette PS4 DualShock 4 (Noir)',
+    category: 'accessoires',
+    subCategory: 'Gaming',
+    image: 'https://gsmsenegal.com/wp-content/uploads/2020/09/manette-ps4.jpg',
+    description: 'Manette sans fil DualShock 4 pour PlayStation 4, ergonomique et précise.',
+  },
+  {
+    id: '66',
+    name: 'Manette PS4 DualShock 4 (Bleu)',
+    category: 'accessoires',
+    subCategory: 'Gaming',
+    image: 'https://merhaba.sn/wp-content/uploads/2025/06/Dualshock-Blue.png',
+    description: 'Manette sans fil DualShock 4 en bleu pour PS4, avec pavé tactile et haut-parleur intégré.',
+  },
+  {
+    id: '67',
+    name: 'Manette PS2 Play (Noir)',
+    category: 'accessoires',
+    subCategory: 'Gaming',
+    image: 'https://www.soumari.com/wp-content/uploads/2023/11/Manette-PLAY-PS2.jpg',
+    description: 'Manette classique pour PlayStation 2, robuste et fiable.',
+  },
+  {
+    id: '68',
+    name: 'Manette PS2 avec Fil (Couleur)',
+    category: 'accessoires',
+    subCategory: 'Gaming',
+    image: 'https://bakhbade.com/wp-content/uploads/2024/02/RSTAR-REGULATEUR-COURANT-MCD-500VA-2024-02-24T132057.946.png',
+    description: 'Manette PS2 avec fil, design coloré pour une expérience de jeu rétro.',
+  },
+  {
+    id: '69',
+    name: 'Manette PS3 Play (Noir)',
+    category: 'accessoires',
+    subCategory: 'Gaming',
+    image: 'https://www.soumari.com/wp-content/uploads/2019/08/MANETTE-PLAY-3-12000.png',
+    description: 'Manette sans fil pour PlayStation 3, idéale pour tous vos jeux.',
+  },
+  {
+    id: '70',
+    name: 'Manette PS3 DualShock 3 (Noir)',
+    category: 'accessoires',
+    subCategory: 'Gaming',
+    image: 'https://sn.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/22/64289/1.jpg?4018',
+    description: 'Manette Sony DualShock 3 noire pour PlayStation 3 avec retour de force.',
+  },
+  {
+    id: '71',
+    name: 'Manette PS3 DualShock 3 (Original)',
+    category: 'accessoires',
+    subCategory: 'Gaming',
+    image: 'http://www.sat-elitegames.com/wp-content/uploads/2017/09/Manette-Ps3-Dual-Shock-noir.jpg',
+    description: 'Manette PS3 Dual Shock noire, haute performance et durabilité.',
+  },
 ];
 
 const Navbar = () => {
@@ -485,7 +663,7 @@ const Navbar = () => {
 
   return (
     <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${isScrolled ? 'bg-white/80 backdrop-blur-md shadow-lg py-4' : 'bg-transparent py-6'}`}>
-      <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
+      <div className="container mx-auto px-4 flex justify-between items-center">
         <div className="flex items-center gap-3 group cursor-pointer">
           <div className="w-10 h-10 bg-black rounded-2xl flex items-center justify-center text-white font-black text-xl group-hover:rotate-12 transition-all duration-500 shadow-lg">N</div>
           <div className="flex flex-col">
@@ -529,7 +707,7 @@ const Hero = () => {
           initial={{ scale: 1.1 }}
           animate={{ scale: 1 }}
           transition={{ duration: 15, repeat: Infinity, repeatType: "reverse" }}
-          src="https://images.unsplash.com/photo-1511499767390-a7335958beba?q=80&w=1920&auto=format&fit=crop" 
+          src="https://www.qualias-optique.be/img/cms/Lunettes.png" 
           className="w-full h-full object-cover opacity-70" 
           alt="Hero Background" 
         />
@@ -540,7 +718,7 @@ const Hero = () => {
           <div className="inline-block px-6 py-2 bg-white/10 backdrop-blur-xl border border-white/20 rounded-full mb-8">
             <span className="text-[10px] font-black uppercase tracking-[0.4em] text-white">L'Art de la Vision & du Prestige</span>
           </div>
-          <h1 className="text-7xl md:text-[12rem] font-black text-white tracking-tighter mb-10 leading-[0.8]">
+          <h1 className="text-4xl md:text-7xl lg:text-9xl font-black text-white tracking-tighter mb-10 leading-[0.8]">
             NDIGUEL<br />
             <span className="bg-gradient-to-r from-white via-white/70 to-white/20 bg-clip-text text-transparent">OPTIQUE</span>
           </h1>
@@ -561,6 +739,11 @@ const Hero = () => {
 
       <div className="absolute bottom-12 left-12 hidden lg:flex flex-col gap-6 opacity-30">
         <div className="flex gap-4">
+          <a href="https://www.tiktok.com/@ndigueloptique?_r=1&_t=ZN-959OrCK0xPS" target="_blank" rel="noopener noreferrer">
+            <svg viewBox="0 0 24 24" fill="currentColor" className="w-4 h-4 text-white hover:text-white/100 cursor-pointer transition-colors">
+              <path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64 2.93 2.93 0 0 1 .88.13V9.4a6.84 6.84 0 0 0-1-.05A6.33 6.33 0 0 0 5 20.1a6.34 6.34 0 0 0 10.86-4.43v-7a8.16 8.16 0 0 0 4.77 1.52v-3.4a4.85 4.85 0 0 1-1.04-.1z"/>
+            </svg>
+          </a>
           <Instagram size={16} className="text-white hover:text-white/100 cursor-pointer transition-colors" />
           <Facebook size={16} className="text-white hover:text-white/100 cursor-pointer transition-colors" />
           <Twitter size={16} className="text-white hover:text-white/100 cursor-pointer transition-colors" />
@@ -587,7 +770,7 @@ const Features = () => {
   return (
     <section className="py-32 bg-white relative overflow-hidden">
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-px bg-gradient-to-r from-transparent via-gray-100 to-transparent"></div>
-      <div className="max-w-7xl mx-auto px-6">
+      <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-16">
           {features.map((f, i) => (
             <motion.div 
@@ -614,7 +797,7 @@ const Features = () => {
 const CategoryShowcase = ({ onSelect }: { onSelect: (cat: 'accessoires' | 'optique') => void }) => {
   return (
     <section className="py-32 bg-gray-50 overflow-hidden">
-      <div className="max-w-7xl mx-auto px-6">
+      <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
           <motion.div 
             whileHover={{ scale: 0.98 }}
@@ -638,12 +821,12 @@ const CategoryShowcase = ({ onSelect }: { onSelect: (cat: 'accessoires' | 'optiq
             onClick={() => onSelect('optique')} 
             className="relative h-[600px] rounded-[4rem] overflow-hidden group cursor-pointer shadow-2xl"
           >
-            <img src="https://images.unsplash.com/photo-1509100194014-d49809396daa?q=80&w=1200" className="w-full h-full object-cover transition-transform duration-[2000ms] group-hover:scale-110" alt="Optique" />
+            <img src="https://spacenet.tn/199656-large_default/casque-bluetooth-p9-pro-max-bleu.jpg" className="w-full h-full object-cover transition-transform duration-[2000ms] group-hover:scale-110" alt="Optique" />
             <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-60 group-hover:opacity-40 transition-all duration-700"></div>
             <div className="absolute inset-0 border-[20px] border-transparent group-hover:border-white/10 transition-all duration-700 rounded-[4rem]"></div>
             <div className="absolute bottom-16 left-16 right-16">
               <p className="text-[10px] font-black text-white/60 uppercase tracking-[0.5em] mb-4">Confort Visuel</p>
-              <h3 className="text-5xl md:text-6xl font-black text-white mb-8 tracking-tighter leading-none">NDIGUEL<br />OPTIQUE</h3>
+              <h3 className="text-2xl md:text-4xl font-black text-white mb-8 tracking-tighter leading-none">NDIGUEL<br />OPTIQUE</h3>
               <div className="flex items-center gap-4 text-white font-black text-[10px] uppercase tracking-widest group-hover:gap-6 transition-all">
                 Voir les Montures <ChevronRight size={20} />
               </div>
@@ -744,7 +927,7 @@ const SectionHeader = ({ title, subtitle, id }: { title: string, subtitle: strin
       viewport={{ once: true }}
     >
       <p className="text-[10px] font-black text-gray-400 uppercase tracking-[0.4em] mb-4">{subtitle}</p>
-      <h2 className="text-5xl md:text-6xl font-black text-gray-900 tracking-tighter mb-8">{title}</h2>
+      <h2 className="text-2xl md:text-4xl font-black text-gray-900 tracking-tighter mb-8">{title}</h2>
       <div className="w-24 h-1.5 bg-black mx-auto rounded-full"></div>
     </motion.div>
   </div>
@@ -753,7 +936,7 @@ const SectionHeader = ({ title, subtitle, id }: { title: string, subtitle: strin
 const Footer = ({ onAdminClick }: { onAdminClick: () => void }) => {
   return (
     <footer className="bg-white border-t border-gray-100 pt-32 pb-12">
-      <div className="max-w-7xl mx-auto px-6">
+      <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-16 mb-24">
           <div className="lg:col-span-2">
             <div className="flex items-center gap-3 mb-8 group cursor-pointer">
@@ -767,9 +950,21 @@ const Footer = ({ onAdminClick }: { onAdminClick: () => void }) => {
               Votre destination de confiance pour l'excellence technologique et le confort visuel au Sénégal.
             </p>
             <div className="flex gap-4">
-              {[<Instagram size={20} />, <Facebook size={20} />, <Twitter size={20} />].map((icon, i) => (
-                <a key={i} href="#" className="w-12 h-12 bg-gray-50 rounded-2xl flex items-center justify-center text-gray-400 hover:bg-black hover:text-white transition-all duration-500 hover:-translate-y-1">
-                  {icon}
+              {[
+                { icon: <Instagram size={20} />, url: "#" },
+                { icon: <Facebook size={20} />, url: "#" },
+                { icon: <Twitter size={20} />, url: "#" },
+                { 
+                  icon: (
+                    <svg viewBox="0 0 24 24" fill="currentColor" className="w-5 h-5">
+                      <path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64 2.93 2.93 0 0 1 .88.13V9.4a6.84 6.84 0 0 0-1-.05A6.33 6.33 0 0 0 5 20.1a6.34 6.34 0 0 0 10.86-4.43v-7a8.16 8.16 0 0 0 4.77 1.52v-3.4a4.85 4.85 0 0 1-1.04-.1z"/>
+                    </svg>
+                  ), 
+                  url: "https://www.tiktok.com/@ndigueloptique?_r=1&_t=ZN-959OrCK0xPS" 
+                }
+              ].map((social, i) => (
+                <a key={i} href={social.url} target={social.url !== "#" ? "_blank" : undefined} rel={social.url !== "#" ? "noopener noreferrer" : undefined} className="w-12 h-12 bg-gray-50 rounded-2xl flex items-center justify-center text-gray-400 hover:bg-black hover:text-white transition-all duration-500 hover:-translate-y-1">
+                  {social.icon}
                 </a>
               ))}
             </div>
@@ -806,7 +1001,7 @@ const Footer = ({ onAdminClick }: { onAdminClick: () => void }) => {
 
         <div className="pt-12 border-t border-gray-100 flex flex-col md:flex-row justify-between items-center gap-8">
           <p className="text-gray-400 text-xs font-medium tracking-wide">
-            © {new Date().getFullYear()} Ndiguel Optique. Tous droits réservés.
+            © {new Date().getFullYear()} NDIGUEL OPTIQUE. Tous droits réservés.
           </p>
           <div className="flex items-center gap-8">
             <button 
@@ -914,7 +1109,7 @@ export default function App() {
   };
 
   const categories = activeTab === 'accessoires' 
-    ? ['Tous', 'Audio', 'Protection', 'Énergie', 'Câbles', 'Studio', 'Montres']
+    ? ['Tous', 'Audio', 'Protection', 'Énergie', 'Câbles', 'Studio', 'Montres', 'Informatique', 'Gaming']
     : ['Tous', 'Correcteurs', 'Photogrey', 'Simples', 'Soleil', 'Antireflet'];
 
   const filteredProducts = products.filter(p => {
@@ -937,10 +1132,10 @@ export default function App() {
       }} />
 
       <section className="py-32 bg-black text-white overflow-hidden">
-        <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-24 items-center">
+        <div className="container mx-auto px-4 grid grid-cols-1 lg:grid-cols-2 gap-24 items-center">
           <motion.div initial={{ opacity: 0, x: -50 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }}>
-            <h2 className="text-[10px] font-black uppercase tracking-[0.5em] text-white/40 mb-8">L'Héritage Ndiguel</h2>
-            <h3 className="text-5xl md:text-7xl font-black mb-12 tracking-tighter leading-none">
+            <h2 className="text-[10px] font-black uppercase tracking-[0.5em] text-white/40 mb-8">L'Héritage NDIGUEL</h2>
+            <h3 className="text-2xl md:text-4xl lg:text-7xl font-black mb-12 tracking-tighter leading-none">
               UNE VISION <br />
               D'EXCEPTION.
             </h3>
@@ -970,7 +1165,7 @@ export default function App() {
         </div>
       </section>
 
-      <main id="products-section" className="max-w-7xl mx-auto px-6 pb-24 scroll-mt-24">
+      <main id="products-section" className="container mx-auto px-4 pb-24 scroll-mt-24">
         {user && <AdminPanel user={user} onLogout={handleLogout} />}
         
         {showLogin && !user && (
@@ -989,7 +1184,7 @@ export default function App() {
               onClick={() => { setActiveTab('optique'); setSelectedSubCategory('Tous'); }}
               className={`px-10 py-4 rounded-full font-black text-[10px] uppercase tracking-widest transition-all ${activeTab === 'optique' ? 'bg-black text-white shadow-2xl scale-105' : 'bg-gray-100 text-gray-400 hover:bg-gray-200'}`}
             >
-              Ndiguel Optique
+              NDIGUEL OPTIQUE
             </button>
           </div>
 
@@ -1020,7 +1215,7 @@ export default function App() {
 
         <section>
           <SectionHeader 
-            title={activeTab === 'accessoires' ? "Accessoires Premium" : "Ndiguel Optique"} 
+            title={activeTab === 'accessoires' ? "Accessoires Premium" : "NDIGUEL OPTIQUE"} 
             subtitle={activeTab === 'accessoires' ? "Technologie & Style" : "Vision & Prestige"} 
           />
           
@@ -1030,7 +1225,7 @@ export default function App() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0, y: -20 }}
-              className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10"
+              className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10"
             >
               {filteredProducts.length > 0 ? (
                 filteredProducts.map(product => (
