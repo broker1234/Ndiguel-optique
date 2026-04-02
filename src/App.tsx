@@ -134,7 +134,7 @@ const PRODUCTS: Product[] = [
     name: 'Ring Light Professionnelle',
     category: 'accessoires',
     subCategory: 'Studio',
-    image: 'https://djd1xqjx2kdnv.cloudfront.net/photos/33/57/457213_24600_XXL.jpg',
+    image: 'https://kadis.com.ng/wp-content/uploads/2024/12/b1-1.jpg',
     description: 'Éclairage LED circulaire pour des vidéos et photos de qualité studio.',
   },
   {
@@ -142,7 +142,7 @@ const PRODUCTS: Product[] = [
     name: 'JBL Boombox 4',
     category: 'accessoires',
     subCategory: 'Audio',
-    image: 'https://cdn.idealo.com/folder/Product/207820/2/207820290/s4_produktbild_max/jbl-boombox-4.jpg',
+    image: 'https://jblonlinestore.com.my/cdn/shop/files/Boombox4_5.jpg?v=1759993646',
     description: 'L\'enceinte Bluetooth portable la plus puissante avec des basses monstrueuses.',
   },
   {
@@ -158,7 +158,7 @@ const PRODUCTS: Product[] = [
     name: 'Mini Haut-Parleur JBL M3',
     category: 'accessoires',
     subCategory: 'Audio',
-    image: 'https://imychic.com/wp-content/uploads/2023/08/Mini-Haut-Parleur-Fort-JBL-M3-3-800x800.jpg',
+    image: 'https://www.itplaza.pk/wp-content/uploads/2024/06/8b9ab8b89dd38c76a14fc637dd79137a.jpg',
     description: 'Petit par la taille, grand par le son. Idéal pour les déplacements.',
   },
   {
@@ -174,7 +174,7 @@ const PRODUCTS: Product[] = [
     name: 'JBL Boombox 3 Wi-Fi',
     category: 'accessoires',
     subCategory: 'Audio',
-    image: 'https://stereoplus.com/cdn/shop/files/827783_7_800x.jpg?v=1733355999',
+    image: 'https://www.jbl.com.sg/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw77d03f41/PA_JBL_BOOMBOX3_Wi-Fi_Black_Product_Image_Box_1605x1605px.png?sw=537&sfrm=png',
     description: 'Son massif JBL Original Pro et Wi-Fi pour une diffusion haute résolution.',
   },
   {
@@ -214,7 +214,7 @@ const PRODUCTS: Product[] = [
     name: 'Câble USB 3-en-1 Callstel',
     category: 'accessoires',
     subCategory: 'Câbles',
-    image: 'https://m.media-amazon.com/images/I/61UfJ-u5uNL._AC_UF894,1000_QL80_.jpg',
+    image: 'https://images-eu.ssl-images-amazon.com/images/I/71sTtwJXZhL._AC_UL495_SR435,495_.jpg',
     description: 'Câble universel Lightning, Type-C et Micro-USB.',
   },
   {
@@ -270,7 +270,7 @@ const PRODUCTS: Product[] = [
     name: 'Osmose Optique Métal',
     category: 'optique',
     subCategory: 'Correcteurs',
-    image: 'https://s3.octika.com/125016-new_product_size/osmose-optique-metal-bleu-turquoise-femme-os875c3.jpg',
+    image: 'https://s1.octika.com/126557-product_detail_rect/osmose-optique-metal-noir-homme-os846c1.jpg',
     description: 'Monture en métal bleu turquoise élégante et légère.',
   },
   {
@@ -286,7 +286,7 @@ const PRODUCTS: Product[] = [
     name: 'Verres Photochromiques Tendance',
     category: 'optique',
     subCategory: 'Photogrey',
-    image: 'https://www.octika.com/img/cms/Blog/2024/OCT/Verres_photochromiques_et_tendances%E2%80%8B.jpg',
+    image: 'https://www.luxoptica.mg/wp-content/uploads/2019/08/Visuels-R%C3%A9%C3%A9criture-Luxo1-03-1024x819.png',
     description: 'Verres qui s\'adaptent intelligemment à la luminosité.',
   },
   {
@@ -302,7 +302,7 @@ const PRODUCTS: Product[] = [
     name: 'Lentiamo Photochromic',
     category: 'optique',
     subCategory: 'Photogrey',
-    image: 'https://www.lentiamo.fr/images/upload/photochromic-lenses-FR.BE.jpg',
+    image: 'https://tommy-europe.scene7.com/is/image/TommyEurope/MWM1710585_000_main?$b2c_uplp_listing_2560$',
     description: 'Protection UV totale avec changement de teinte automatique.',
   },
   {
@@ -350,7 +350,7 @@ const PRODUCTS: Product[] = [
     name: 'Intelligent Photochromic',
     category: 'optique',
     subCategory: 'Photogrey',
-    image: 'https://m.media-amazon.com/images/I/51P0p9JGq4L._AC_UF1000%2C1000_QL80_.jpg',
+    image: 'https://img.fruugo.com/product/4/87/1711268874_0340_0340.jpg',
     description: 'Verres intelligents à changement de teinte rapide.',
   },
   {
@@ -358,7 +358,7 @@ const PRODUCTS: Product[] = [
     name: 'Simple Eyewear Hector',
     category: 'optique',
     subCategory: 'Simples',
-    image: 'https://simple-eyewear.com/cdn/shop/products/Face-Hector-1_2048x.jpg?v=1680521539',
+    image: 'https://www.yakiraeyewear.com/wp-content/uploads/2020/12/hector-group.jpg',
     description: 'Design minimaliste et épuré pour un look intemporel.',
   },
   {
@@ -366,7 +366,7 @@ const PRODUCTS: Product[] = [
     name: 'Trio Stationery PL7870',
     category: 'optique',
     subCategory: 'Simples',
-    image: 'https://img.ebdcdn.com/product/front/white/pl7870.jpg',
+    image: 'https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/30/949756/1.jpg?1183',
     description: 'Monture classique et robuste pour un usage quotidien.',
   },
   {
@@ -374,7 +374,7 @@ const PRODUCTS: Product[] = [
     name: 'Simple Eyewear HOFF',
     category: 'optique',
     subCategory: 'Simples',
-    image: 'https://simple-eyewear.com/cdn/shop/products/HOFF_05_01_2048x.jpg?v=1680523459',
+    image: 'https://simple-eyewear.com/cdn/shop/products/HOFF_05_02.jpg?v=1680523459',
     description: 'Élégance simple et confort exceptionnel.',
   },
   {
@@ -438,7 +438,7 @@ const PRODUCTS: Product[] = [
     name: 'Eyebuydirect SMT7054',
     category: 'optique',
     subCategory: 'Soleil',
-    image: 'https://img.ebdcdn.com/product/front/white/smt7054.jpg',
+    image: 'https://img.ebdcdn.com/product/frame/gray/hmt0116_3.jpg',
     description: 'Monture solaire tendance pour un look estival parfait.',
   },
   {
@@ -462,7 +462,7 @@ const PRODUCTS: Product[] = [
     name: 'Eyebuydirect PM0571',
     category: 'optique',
     subCategory: 'Antireflet',
-    image: 'https://img.ebdcdn.com/product/front/gray/pm0571.jpg?q=70&im=Resize,width=600,height=300,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0',
+    image: 'https://www.iguanasell.fr/cdn/shop/articles/Portada-Blog_3f8866fa-da80-4acf-8bae-936ff468d052_1200x.jpg?v=1631720095',
     description: 'Traitement antireflet haute qualité pour un confort quotidien.',
   },
   {
@@ -510,7 +510,7 @@ const PRODUCTS: Product[] = [
     name: 'Souris Optique Filaire',
     category: 'accessoires',
     subCategory: 'Informatique',
-    image: 'https://media.s-bol.com/91VNYBnoqpmP/550x316.jpg',
+    image: 'https://www.togoinformatique.com/wp-content/uploads/2023/04/M10.jpg',
     description: 'Souris optique avec câble pour PC et Mac.',
   },
   {
@@ -643,15 +643,463 @@ const PRODUCTS: Product[] = [
   },
   {
     id: '71',
-    name: 'Manette PS3 DualShock 3 (Original)',
+    name: 'Ventilateur Mural Roch',
     category: 'accessoires',
-    subCategory: 'Gaming',
-    image: 'http://www.sat-elitegames.com/wp-content/uploads/2017/09/Manette-Ps3-Dual-Shock-noir.jpg',
-    description: 'Manette PS3 Dual Shock noire, haute performance et durabilité.',
+    subCategory: 'Maison',
+    image: 'http://www.electromenager-dakar.com/wp-content/uploads/2025/02/Electromenager-dakar-15-14-1.png',
+    description: 'Ventilateur mural Roch RWF-1805R avec télécommande pour un confort optimal.',
+  },
+  {
+    id: '72',
+    name: 'Montre Tommy Hilfiger Homme',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://tommy-europe.scene7.com/is/image/TommyEurope/MWM1710585_000_main?$b2c_uplp_listing_2560$',
+    description: 'Élégance classique avec bracelet en cuir et cadran raffiné.',
+  },
+  {
+    id: '73',
+    name: 'M-Watch Bicolor 41',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://www.uhren-shop.ch/37591-large_default/m-watch-bicolor-41-montre-suisse-quartz-gris.jpg',
+    description: 'Montre suisse à quartz, design bicolore gris et acier.',
+  },
+  {
+    id: '74',
+    name: 'Montre Connectée Multifonctions',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://i0.wp.com/swissproline.ch/wp-content/uploads/2024/07/Montre-connectee-multifonctions_-noir.png?fit=1920%2C1920&ssl=1',
+    description: 'Suivi d\'activité complet et notifications intelligentes.',
+  },
+  {
+    id: '75',
+    name: 'Montre My Time Action',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://asset.action.com/image/upload/t_digital_product_image/w_1080/2563439_8718969955720-110_01_gxdwyo.webp',
+    description: 'Montre moderne et accessible pour un style quotidien.',
+  },
+  {
+    id: '76',
+    name: 'Montre LIGE Chrono Sport',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://akrochic.com/cdn/shop/files/montre-lige-chrono-sport-posee-pierre-noire-bracelet-cuir-marron-cadran-noir-argent.jpg?v=1720173925',
+    description: 'Chronographe sportif avec bracelet en cuir marron.',
+  },
+  {
+    id: '77',
+    name: 'Mauboussin Il Est Grand Temps',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://ci.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/03/651972/1.jpg?3832',
+    description: 'Élégance turquoise signée Mauboussin.',
+  },
+  {
+    id: '78',
+    name: 'Daniel Wellington Classic',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://montreskull.fr/wp-content/uploads/2023/01/OLEVS-montre-Quartz-pour-homme-classique-tanche-lumineuse-bracelet-en-cuir-affichage-de-la-Date-luxe-5.jpg',
+    description: 'Le minimalisme suédois par excellence.',
+  },
+  {
+    id: '79',
+    name: 'CLUSE Boho Chic',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://cluse.com/cdn/shop/files/CW13801_frontal.jpg?v=1701936676&width=1080',
+    description: 'Monture dorée et cadran blanc pour un look bohème chic.',
+  },
+  {
+    id: '80',
+    name: 'Louis Pion Multifonctions',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://www.louispion.fr/media/catalog/product/8/4/8430622775284_1_3afe.jpg?optimize=medium&fit=bounds&height=1000&width=1000&canvas=1000:1000',
+    description: 'Montre polyvalente avec plusieurs cadrans de précision.',
+  },
+  {
+    id: '81',
+    name: 'Hamilton Jazzmaster Open Heart',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://www.hamiltonwatch.com/media/catalog/product/cache/416458e74bb900764161801e331f7d59/h/3/h32705180.png',
+    description: 'Montre automatique avec mécanisme apparent.',
+  },
+  {
+    id: '82',
+    name: 'BOSS Montre Chronographe',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://images.hugoboss.com/is/image/boss/hbeu58733301_999_200?$large$=&fit=crop,1&align=1,1&bgcolor=ebebeb&lastModified=1773927517000&qlt=80&resMode=sharp2&wid=338',
+    description: 'Design sophistiqué et précision Hugo Boss.',
+  },
+  {
+    id: '83',
+    name: 'Fossil Raquel Cuir',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://fossil.scene7.com/is/image/FossilPartners/ES5464_main?$sfcc_fos_medium$',
+    description: 'Montre rectangulaire avec bracelet en cuir noir.',
+  },
+  {
+    id: '84',
+    name: 'Electroplanet Smartwatch',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://media.electroplanet.ma/media/catalog/category/MONTRE_1.webp',
+    description: 'Le meilleur de la technologie connectée.',
+  },
+  {
+    id: '85',
+    name: 'Horel Aviation',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://horel.com/img/cms/HOME-CAT-AVIATION.jpg',
+    description: 'Style aviateur robuste et fonctionnel.',
+  },
+  {
+    id: '86',
+    name: 'Casio Multisports Digitale',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://moineau-instruments.com/7194-large_default/montre-digitale-casio-multisports-coloris-noir-ecran-noir-digits-blancs.jpg',
+    description: 'La fiabilité Casio pour toutes vos activités sportives.',
+  },
+  {
+    id: '87',
+    name: 'Festina Ceramic Femme',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://www.3suisses.fr/media/produits/festina/img/montre-festina--femme-f20639-a_3672519_500x500.jpg',
+    description: 'Alliage de céramique et d\'acier pour une élégance durable.',
+  },
+  {
+    id: '88',
+    name: 'Samsung Galaxy Watch 8',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://static.fnac-static.com/multimedia/Images/FR/MDM/7a/40/b3/28524666/1540-1/tsp20260224173615/Montre-connectee-Samsung-Galaxy-Watch-8-40-mm-4G-Graphite.jpg',
+    description: 'Dernière génération de montre connectée Samsung.',
+  },
+  {
+    id: '89',
+    name: 'Montre Cristal Magnétique',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://promo.sn/wp-content/uploads/2021/08/Montre-Femme-cristal-a-bracelet-magnetique-1.jpg',
+    description: 'Bracelet magnétique et cadran effet cristal.',
+  },
+  {
+    id: '90',
+    name: 'Festina Classique Femme',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://imageconv.festinagroup.com/convert?code=eyJidWNrZXQiOiJia3QtZmVzdGluYS1jbXMtc3RyYXBpLWVudi1wcmotcC1wbGF0Zm9ybS1lY29tbWVyY2UtMWVmMyIsImtleSI6IjE3NzM5Mzk3MjUxMjQtcmVsb2otbXVqZXItY2VyYW1pYy1mZXN0aW5hLmpwZyIsInBhdGgiOiJmZXN0aW5hLWNtcyIsImVkaXRzIjp7ImZpdCI6Imluc2lkZSJ9fQ%3D%3D',
+    description: 'Un classique intemporel pour toutes les femmes.',
+  },
+  {
+    id: '91',
+    name: 'Histoire d\'Or Automatique',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://www.histoiredor.com/dw/image/v2/BCQS_PRD/on/demandware.static/-/Sites-THOM_CATALOG/default/dwfc3bd637/images/70580103782-master_HO.jpg?sw=474&sh=474',
+    description: 'Montre automatique raffinée avec cadran squelette.',
+  },
+  {
+    id: '92',
+    name: 'Sector 230 Chrono',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://www.bijourama.com/media/produits/sector-montres/img/montre-homme--sector-montres-230-r3273661029-bracelet-acier-noir_r3273661029_500x500.jpg',
+    description: 'Chronographe en acier noir pour un look affirmé.',
+  },
+  {
+    id: '93',
+    name: 'Montre Homme Or Quartz',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://m.media-amazon.com/images/I/61u2TsMC+tL._AC_UY350_.jpg',
+    description: 'Finition dorée luxueuse et mouvement quartz précis.',
+  },
+  {
+    id: '94',
+    name: 'Aelys Montre Tendance',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://aelys.fr/47596-large_default/product.jpg',
+    description: 'Design contemporain et élégant.',
+  },
+  {
+    id: '95',
+    name: 'Pierre Lannier Espérance',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/20/996571/1.jpg?5707',
+    description: 'Montre automatique femme, collection Espérance.',
+  },
+  {
+    id: '96',
+    name: 'Huawei Watch Fit 4 Pro',
+    category: 'accessoires',
+    subCategory: 'Montres',
+    image: 'https://www.cdiscount.com/pdt2/7/2/1/1/400x400/aaavc43721/rw/montre-connectee-huawei-watch-fit-4-pro-ecra.jpg',
+    description: 'Écran AMOLED et suivi santé avancé.',
+  },
+  {
+    id: '97',
+    name: 'Lunettes Correcteurs Premium',
+    category: 'optique',
+    subCategory: 'Correcteurs',
+    image: 'https://www.bonhommealunettes.org/wp-content/uploads/H1-5-caracteristiques-qu_une-bonne-paire-de-lunette-de-vue-doit-avoir-930x608.jpg',
+    description: 'Monture de vue haute qualité pour un confort visuel optimal.',
+  },
+  {
+    id: '98',
+    name: 'Jean Reno 2019 C3',
+    category: 'optique',
+    subCategory: 'Correcteurs',
+    image: 'https://centreoptique.nc/wp-content/uploads/2024/09/SM-H-JEAN-RENO-2019-C3-45-22-148-MONTURE-METAL-BLEU-MAT.jpg',
+    description: 'Monture métal bleu mat, design élégant et moderne.',
+  },
+  {
+    id: '99',
+    name: 'Arnette Correcteurs AN7208',
+    category: 'optique',
+    subCategory: 'Correcteurs',
+    image: 'https://assets2.arnette.com/cdn-record-files-pi/ec77e38b-84d6-4805-ade2-b37700fb2ab9/a5cbccac-8f22-426c-a962-b37700fb2ede/0AN7208__2841__P21__noshad__qt.png?impolicy=ARN_resize&wid=426',
+    description: 'Style urbain et dynamique pour une vision claire.',
+  },
+  {
+    id: '100',
+    name: 'Arnette Correcteurs AN7290U',
+    category: 'optique',
+    subCategory: 'Correcteurs',
+    image: 'https://assets2.arnette.com/cdn-record-files-pi/acd99996-9200-424e-97b9-b37700f234a7/8a5a4116-5f97-4dc9-b2a6-b37700fbef3f/0AN7290U__2900__P21__noshad__qt.png?impolicy=ARN_resize&wid=426',
+    description: 'Monture légère et résistante pour un usage quotidien.',
+  },
+  {
+    id: '101',
+    name: 'Arnette Correcteurs AN7287U',
+    category: 'optique',
+    subCategory: 'Correcteurs',
+    image: 'https://assets2.arnette.com/cdn-record-files-pi/aae71478-3290-4bfa-9c0e-b37700f487bb/84a8b940-9ffc-47b9-a355-b37700f48cf5/0AN7287U__2900__P21__noshad__qt.png?impolicy=ARN_resize&wid=426',
+    description: 'Design contemporain alliant confort et style.',
+  },
+  {
+    id: '102',
+    name: 'Trio Stationery Optique',
+    category: 'optique',
+    subCategory: 'Correcteurs',
+    image: 'https://cdn.faire.com/fastly/72fb9c9c7c3db2113b9283198a07632b02ad2fb5920a6aa6065214b9240fa109.jpeg?bg-color=FFFFFF&dpr=1&fit=crop&format=jpg&height=720&width=720',
+    description: 'Monture classique et robuste pour verres correcteurs.',
+  },
+  {
+    id: '103',
+    name: 'Photogrey Style Homme',
+    category: 'optique',
+    subCategory: 'Photogrey',
+    image: 'https://senachat.com/public/uploads/all/s9gvjf1LLCJhHGQt2ijGn1fCOozK7qY1WvLESY2P.jpg',
+    description: 'Verres photochromiques s\'adaptant à la lumière.',
+  },
+  {
+    id: '104',
+    name: 'Mont Blanc Photogray',
+    category: 'optique',
+    subCategory: 'Photogrey',
+    image: 'https://elegancesenegal.com/wp-content/uploads/2024/05/lunette-mont-blanc-originale.png',
+    description: 'Luxe et protection avec verres photochromiques.',
+  },
+  {
+    id: '105',
+    name: 'Photogray Blue Cut',
+    category: 'optique',
+    subCategory: 'Photogrey',
+    image: 'https://sn.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/39/916221/1.jpg?1614',
+    description: 'Protection contre la lumière bleue et changement de teinte.',
+  },
+  {
+    id: '106',
+    name: 'Photogray Diya',
+    category: 'optique',
+    subCategory: 'Photogrey',
+    image: 'https://www.softtradingsn.com/wp-content/uploads/2024/08/cf4558e1-271c-46ec-a026-6e9b1ddb12ea.jpeg',
+    description: 'Style moderne avec verres intelligents.',
+  },
+  {
+    id: '107',
+    name: 'Photogray Classic',
+    category: 'optique',
+    subCategory: 'Photogrey',
+    image: 'https://bonkax.com/wp-content/uploads/2023/07/6BBD6E8D-5074-4314-B89E-BB6D09FEF2E5.png',
+    description: 'Verres photochromiques pour un confort visuel total.',
+  },
+  {
+    id: '108',
+    name: 'Photogray Pia',
+    category: 'optique',
+    subCategory: 'Photogrey',
+    image: 'https://www.softtradingsn.com/wp-content/uploads/2024/08/dc54bdd1-e907-449a-94d3-f3b57f3718ec.jpeg',
+    description: 'Élégance et technologie photochromique.',
+  },
+  {
+    id: '109',
+    name: 'Photogrey Pro',
+    category: 'optique',
+    subCategory: 'Photogrey',
+    image: 'https://senachat.com/public/uploads/all/zbAx1fEWrV90wVQQ1QQbjVEHywjQB2Ho0YVYVUDR.jpg',
+    description: 'Performance visuelle supérieure en toute circonstance.',
+  },
+  {
+    id: '110',
+    name: 'Photogray Original',
+    category: 'optique',
+    subCategory: 'Photogrey',
+    image: 'https://bonkax.com/wp-content/uploads/2023/07/5460568d-8aba-43e6-8c08-d6b36d18b911.jpg',
+    description: 'Le classique du changement de teinte automatique.',
+  },
+  {
+    id: '111',
+    name: 'Photogrey Urban',
+    category: 'optique',
+    subCategory: 'Photogrey',
+    image: 'https://senachat.com/public/uploads/all/PJVBBDCZ4PQnL80qx2E7L4nEFCke88Tk6ofcQxlj.jpg',
+    description: 'Style urbain avec verres s\'adaptant à la luminosité.',
+  },
+  {
+    id: '112',
+    name: 'Photogray MKBXI Silver',
+    category: 'optique',
+    subCategory: 'Photogrey',
+    image: 'https://diaytar.com/wp-content/uploads/sn221/lunette-photogray-homme-mkbxi-silver_715_dakar_senegal.png',
+    description: 'Monture argentée et verres photochromiques.',
+  },
+  {
+    id: '113',
+    name: 'Photogrey Jiji Style',
+    category: 'optique',
+    subCategory: 'Photogrey',
+    image: 'https://pictures-senegal.jijistatic.com/236279_NjIwLTQ2NS1iMzVkMjhiNDhj.webp',
+    description: 'Design tendance et protection photochromique.',
+  },
+  {
+    id: '114',
+    name: 'Photogray MKBXI Noir',
+    category: 'optique',
+    subCategory: 'Photogrey',
+    image: 'https://diaytar.com/wp-content/uploads/sn221/lunette-photogray-homme-mkbxi-noir_435_dakar_senegal.png',
+    description: 'Monture noire classique avec verres intelligents.',
+  },
+  {
+    id: '115',
+    name: 'Photogrey Transparent',
+    category: 'optique',
+    subCategory: 'Photogrey',
+    image: 'https://nuvo.sn/wp-content/uploads/2023/10/Transparent-1.jpg',
+    description: 'Monture transparente moderne et verres photochromiques.',
+  },
+  {
+    id: '116',
+    name: 'Photogray Pia Soft',
+    category: 'optique',
+    subCategory: 'Photogrey',
+    image: 'https://www.softtradingsn.com/wp-content/uploads/2024/08/9920fbd4-cefc-48bc-8c1d-672520abc522.jpeg',
+    description: 'Confort et style avec verres à teinte variable.',
+  },
+  {
+    id: '117',
+    name: 'Photogrey Jiji Pro',
+    category: 'optique',
+    subCategory: 'Photogrey',
+    image: 'https://pictures-senegal.jijistatic.com/236278_NjIwLTQ2NS03MmIyMTk2Yjc0.webp',
+    description: 'Protection UV et adaptation lumineuse rapide.',
+  },
+  {
+    id: '118',
+    name: 'Photogray Jalisa',
+    category: 'optique',
+    subCategory: 'Photogrey',
+    image: 'http://jalisashop.com/cdn/shop/files/image8.jpg?v=1758414013',
+    description: 'Anti-lumière bleue et photochromique pour un confort total.',
+  },
+  {
+    id: '119',
+    name: 'Verres Simple Vision',
+    category: 'optique',
+    subCategory: 'Simples',
+    image: 'https://www.optoplus.com/assets/images/home/verres-b252928e3069b6605b4960961c292885.jpg',
+    description: 'Verres simples pour une correction précise.',
+  },
+  {
+    id: '120',
+    name: 'Simple Noir Designer',
+    category: 'optique',
+    subCategory: 'Simples',
+    image: 'https://img.drz.lazcdn.com/static/bd/p/4b6591eee60e7cee9a55b34a6b574262.jpg_720x720q80.jpg',
+    description: 'Lunettes de soleil designer au style épuré.',
+  },
+  {
+    id: '121',
+    name: 'Lunettes de Soleil Polarized',
+    category: 'optique',
+    subCategory: 'Soleil',
+    image: 'https://tech-access-dakar.com/wp-content/uploads/2021/10/1634071027052.png',
+    description: 'Protection polarisée haute performance pour un confort visuel maximal.',
+  },
+  {
+    id: '122',
+    name: 'Lunettes de Soleil Femme Chic',
+    category: 'optique',
+    subCategory: 'Soleil',
+    image: 'https://chillandlit.tn/99793-large_default/lunettes-de-soleil-femme.jpg',
+    description: 'Design élégant et féminin pour une protection solaire stylée.',
+  },
+  {
+    id: '123',
+    name: 'Izipizi Sun Black Polarized',
+    category: 'optique',
+    subCategory: 'Soleil',
+    image: 'https://www.izipizi.com/media/catalog/product/e/f/ef_slmsdpac01_1-izi_d_sun_black_polarized_vue1.jpg?width=1250&height=1350&quality=85&fit=bounds',
+    description: 'Le classique Izipizi avec verres polarisés pour une vision sans reflets.',
+  },
+  {
+    id: '124',
+    name: 'Lunettes de Soleil Tendance',
+    category: 'optique',
+    subCategory: 'Soleil',
+    image: 'https://m.media-amazon.com/images/I/51ctqhbV9+L._AC_UY1000_.jpg',
+    description: 'Nouvelle collection tendance pour affirmer votre personnalité.',
+  },
+  {
+    id: '125',
+    name: 'Lunettes de Soleil Classiques',
+    category: 'optique',
+    subCategory: 'Soleil',
+    image: 'https://static.actu.fr/uploads/2021/07/adobestock-218645714-960x640.jpeg',
+    description: 'Style intemporel offrant une protection UV optimale.',
+  },
+  {
+    id: '126',
+    name: 'Lunettes de Soleil Sport UV400',
+    category: 'optique',
+    subCategory: 'Soleil',
+    image: 'https://m.media-amazon.com/images/I/61nWs9HjHBL._AC_SL1500_.jpg',
+    description: 'Monture ultra-légère et protection UV400 pour vos activités sportives.',
+  },
+  {
+    id: '127',
+    name: 'Lunettes de Soleil Solaire LPT',
+    category: 'optique',
+    subCategory: 'Soleil',
+    image: 'https://azureyes.com/cdn/shop/files/azur-eyes_modele_couleur.jpg_5.png?v=1760961835&width=3840',
+    description: 'Design moderne et protection solaire de qualité supérieure.',
   },
 ];
 
-const Navbar = () => {
+const Navbar = ({ onNavigate }: { onNavigate: (item: string) => void }) => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
@@ -664,7 +1112,7 @@ const Navbar = () => {
   return (
     <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${isScrolled ? 'bg-white/80 backdrop-blur-md shadow-lg py-4' : 'bg-transparent py-6'}`}>
       <div className="container mx-auto px-4 flex justify-between items-center">
-        <div className="flex items-center gap-3 group cursor-pointer">
+        <div className="flex items-center gap-3 group cursor-pointer" onClick={() => onNavigate('Accueil')}>
           <div className="w-10 h-10 bg-black rounded-2xl flex items-center justify-center text-white font-black text-xl group-hover:rotate-12 transition-all duration-500 shadow-lg">N</div>
           <div className="flex flex-col">
             <span className={`font-black text-sm tracking-[0.2em] leading-none transition-colors ${isScrolled ? 'text-black' : 'text-white'}`}>NDIGUEL</span>
@@ -674,7 +1122,13 @@ const Navbar = () => {
 
         <div className="hidden md:flex gap-10 text-[10px] font-black uppercase tracking-[0.2em]">
           {['Accueil', 'Accessoires', 'Optique', 'Contact'].map((item) => (
-            <a key={item} href={`#${item.toLowerCase()}`} className={`transition-all hover:tracking-[0.4em] ${isScrolled ? 'text-black' : 'text-white'}`}>{item}</a>
+            <button 
+              key={item} 
+              onClick={() => onNavigate(item)} 
+              className={`transition-all hover:tracking-[0.4em] ${isScrolled ? 'text-black' : 'text-white'}`}
+            >
+              {item}
+            </button>
           ))}
         </div>
 
@@ -688,7 +1142,13 @@ const Navbar = () => {
           <motion.div initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }} className="absolute top-full left-0 right-0 bg-white shadow-2xl p-6 md:hidden">
             <div className="flex flex-col gap-6 text-center font-black uppercase tracking-widest text-sm">
               {['Accueil', 'Accessoires', 'Optique', 'Contact'].map((item) => (
-                <a key={item} href={`#${item.toLowerCase()}`} onClick={() => setIsMobileMenuOpen(false)} className="py-2 hover:text-gray-500">{item}</a>
+                <button 
+                  key={item} 
+                  onClick={() => { onNavigate(item); setIsMobileMenuOpen(false); }} 
+                  className="py-2 hover:text-gray-500"
+                >
+                  {item}
+                </button>
               ))}
             </div>
           </motion.div>
@@ -698,7 +1158,7 @@ const Navbar = () => {
   );
 };
 
-const Hero = () => {
+const Hero = ({ onNavigate }: { onNavigate: (item: string) => void }) => {
   return (
     <section id="accueil" className="relative min-h-screen flex items-center justify-center overflow-hidden bg-black">
       <div className="absolute inset-0 z-0">
@@ -726,10 +1186,13 @@ const Hero = () => {
             L'excellence visuelle rencontre l'innovation technologique. <br className="hidden md:block" /> Découvrez notre sélection exclusive de montures de luxe et d'accessoires de prestige.
           </p>
           <div className="flex flex-col md:flex-row gap-8 justify-center items-center">
-            <a href="#products-section" className="group relative px-14 py-6 bg-white text-black font-black rounded-full text-[10px] uppercase tracking-[0.3em] overflow-hidden transition-all hover:pr-20 hover:scale-105 active:scale-95 shadow-2xl">
+            <button 
+              onClick={() => onNavigate('Accessoires')} 
+              className="group relative px-14 py-6 bg-white text-black font-black rounded-full text-[10px] uppercase tracking-[0.3em] overflow-hidden transition-all hover:pr-20 hover:scale-105 active:scale-95 shadow-2xl"
+            >
               <span className="relative z-10">Explorer la Collection</span>
               <ChevronRight className="absolute right-8 top-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100 transition-all duration-500" size={20} />
-            </a>
+            </button>
             <a href={WHATSAPP_LINK} target="_blank" rel="noopener noreferrer" className="px-14 py-6 bg-white/5 backdrop-blur-xl text-white border border-white/10 font-black rounded-full text-[10px] uppercase tracking-[0.3em] hover:bg-white/10 transition-all hover:scale-105 active:scale-95">
               Service Client
             </a>
@@ -876,7 +1339,7 @@ const ProductCard = ({ product, isAdmin, onDelete }: { product: Product, isAdmin
             </button>
           )}
           <a 
-            href={`${WHATSAPP_LINK}?text=Bonjour, je souhaite plus d'informations sur : ${encodeURIComponent(product.name)}`}
+            href={`${WHATSAPP_LINK}?text=${encodeURIComponent(`Bonjour, je souhaite plus d'informations sur :\n\nProduit : ${product.name}\nPhoto : ${product.image || 'Non disponible'}`)}`}
             target="_blank"
             rel="noopener noreferrer"
             className="w-12 h-12 bg-white text-black rounded-2xl flex items-center justify-center hover:bg-black hover:text-white shadow-2xl transition-all hover:scale-110"
@@ -907,7 +1370,7 @@ const ProductCard = ({ product, isAdmin, onDelete }: { product: Product, isAdmin
         </p>
 
         <a 
-          href={`${WHATSAPP_LINK}?text=Bonjour, je souhaite commander : ${encodeURIComponent(product.name)}`}
+          href={`${WHATSAPP_LINK}?text=${encodeURIComponent(`Bonjour, je souhaite commander :\n\nProduit : ${product.name}\nPhoto : ${product.image || 'Non disponible'}`)}`}
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center justify-center gap-4 w-full py-5 bg-black text-white rounded-[1.5rem] text-[10px] font-black uppercase tracking-[0.3em] transition-all duration-500 hover:bg-gray-900 hover:scale-[1.02] active:scale-95 shadow-xl shadow-black/10"
@@ -933,13 +1396,13 @@ const SectionHeader = ({ title, subtitle, id }: { title: string, subtitle: strin
   </div>
 );
 
-const Footer = ({ onAdminClick }: { onAdminClick: () => void }) => {
+const Footer = ({ onAdminClick, onNavigate }: { onAdminClick: () => void, onNavigate: (item: string) => void }) => {
   return (
     <footer className="bg-white border-t border-gray-100 pt-32 pb-12">
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-16 mb-24">
           <div className="lg:col-span-2">
-            <div className="flex items-center gap-3 mb-8 group cursor-pointer">
+            <div className="flex items-center gap-3 mb-8 group cursor-pointer" onClick={() => onNavigate('Accueil')}>
               <div className="w-12 h-12 bg-black rounded-2xl flex items-center justify-center text-white font-black text-2xl group-hover:rotate-12 transition-all duration-500 shadow-lg">N</div>
               <div className="flex flex-col">
                 <span className="font-black text-base tracking-[0.2em] leading-none text-black">NDIGUEL</span>
@@ -975,10 +1438,13 @@ const Footer = ({ onAdminClick }: { onAdminClick: () => void }) => {
             <ul className="space-y-4">
               {['Accueil', 'Accessoires', 'Optique', 'Contact'].map((item) => (
                 <li key={item}>
-                  <a href={`#${item.toLowerCase()}`} className="text-sm font-bold text-gray-600 hover:text-black transition-colors flex items-center gap-2 group">
+                  <button 
+                    onClick={() => onNavigate(item)} 
+                    className="text-sm font-bold text-gray-600 hover:text-black transition-colors flex items-center gap-2 group"
+                  >
                     <span className="w-0 h-0.5 bg-black transition-all group-hover:w-4"></span>
                     {item}
-                  </a>
+                  </button>
                 </li>
               ))}
             </ul>
@@ -1109,7 +1575,7 @@ export default function App() {
   };
 
   const categories = activeTab === 'accessoires' 
-    ? ['Tous', 'Audio', 'Protection', 'Énergie', 'Câbles', 'Studio', 'Montres', 'Informatique', 'Gaming']
+    ? ['Tous', 'Audio', 'Protection', 'Énergie', 'Câbles', 'Studio', 'Montres', 'Informatique', 'Gaming', 'Maison']
     : ['Tous', 'Correcteurs', 'Photogrey', 'Simples', 'Soleil', 'Antireflet'];
 
   const filteredProducts = products.filter(p => {
@@ -1120,10 +1586,29 @@ export default function App() {
     return matchesCategory && matchesSubCategory && matchesSearch;
   });
 
+  const handleNavigate = (item: string) => {
+    if (item === 'Accueil') {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    } else if (item === 'Accessoires') {
+      setActiveTab('accessoires');
+      setSelectedSubCategory('Tous');
+      const element = document.getElementById('products-section');
+      element?.scrollIntoView({ behavior: 'smooth' });
+    } else if (item === 'Optique') {
+      setActiveTab('optique');
+      setSelectedSubCategory('Tous');
+      const element = document.getElementById('products-section');
+      element?.scrollIntoView({ behavior: 'smooth' });
+    } else if (item === 'Contact') {
+      const element = document.getElementById('contact');
+      element?.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
+
   return (
     <div className="min-h-screen bg-white font-sans selection:bg-black selection:text-white">
-      <Navbar />
-      <Hero />
+      <Navbar onNavigate={handleNavigate} />
+      <Hero onNavigate={handleNavigate} />
       <Features />
       <CategoryShowcase onSelect={(cat) => {
         setActiveTab(cat);
@@ -1322,7 +1807,7 @@ export default function App() {
         </section>
       </main>
 
-      <Footer onAdminClick={() => setShowLogin(true)} />
+      <Footer onAdminClick={() => setShowLogin(true)} onNavigate={handleNavigate} />
 
       <a 
         href={WHATSAPP_LINK}
