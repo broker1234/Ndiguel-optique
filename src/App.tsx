@@ -870,7 +870,7 @@ const PRODUCTS: Product[] = [
     name: 'Arnette Correcteurs AN7208',
     category: 'optique',
     subCategory: 'Correcteurs',
-    image: 'https://assets2.arnette.com/cdn-record-files-pi/ec77e38b-84d6-4805-ade2-b37700fb2ab9/a5cbccac-8f22-426c-a962-b37700fb2ede/0AN7208__2841__P21__noshad__qt.png?impolicy=ARN_resize&wid=426',
+    image: 'https://ci.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/00/077913/3.jpg?4065',
     description: 'Style urbain et dynamique pour une vision claire.',
   },
   {
@@ -878,7 +878,7 @@ const PRODUCTS: Product[] = [
     name: 'Arnette Correcteurs AN7290U',
     category: 'optique',
     subCategory: 'Correcteurs',
-    image: 'https://assets2.arnette.com/cdn-record-files-pi/acd99996-9200-424e-97b9-b37700f234a7/8a5a4116-5f97-4dc9-b2a6-b37700fbef3f/0AN7290U__2900__P21__noshad__qt.png?impolicy=ARN_resize&wid=426',
+    image: 'https://www.wallaceparis.com/wp-content/uploads/2022/03/Wallace_Denfert_STB_C001_2-2.jpg',
     description: 'Monture légère et résistante pour un usage quotidien.',
   },
   {
@@ -886,7 +886,7 @@ const PRODUCTS: Product[] = [
     name: 'Arnette Correcteurs AN7287U',
     category: 'optique',
     subCategory: 'Correcteurs',
-    image: 'https://assets2.arnette.com/cdn-record-files-pi/aae71478-3290-4bfa-9c0e-b37700f487bb/84a8b940-9ffc-47b9-a355-b37700f48cf5/0AN7287U__2900__P21__noshad__qt.png?impolicy=ARN_resize&wid=426',
+    image: 'https://sn.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/64/120221/1.jpg?7032',
     description: 'Design contemporain alliant confort et style.',
   },
   {
